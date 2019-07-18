@@ -1,2 +1,3 @@
-# ESDLdrought
-Submission repo for Earth System Data Lab Early Adopters call.
+# ESDL - Drought co-occurrence
+
+Git for the ESDL Drought Co-occurrence study
